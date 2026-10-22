@@ -5,7 +5,7 @@
 </div>
 
 **Cette session, tu passes de joueur à développeur.** 🎮
-Avec **Unity** et **C#**, tu vas construire des mondes en 2D et en 3D, puis leur donner vie : physique, collisions, interface, manettes, multijoueur, particules, animations et son. Tu exporteras ensuite tes jeux pour le Web, le PC et la réalité virtuelle. Le boss final : **ton propre jeu d'arcade 2D, du premier sprite jusqu'à l'écran de fin.**
+Avec **Unity** et **C#**, tu vas construire des mondes en 2D et en 3D, puis leur donner vie : physique, collisions, interface, manettes, particules, animations et son. Tu exporteras ensuite tes jeux pour le Web et le PC. Le boss final : **ton propre jeu d'arcade 2D, du premier sprite jusqu'à l'écran de fin.**
 
 <a href="https://github.com/Cours-Jeu-Video-CegepTR"><img src="assets/niveaux.svg" alt="Sélection de niveau : Moteur et outils, Mondes 2D et 3D, Logique de jeu, Contrôles et réseau, Effets visuels, Son, International" width="100%"></a>
 
