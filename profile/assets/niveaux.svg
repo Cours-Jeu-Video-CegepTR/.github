@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 180" width="1280" height="180" role="img" aria-label="Sélection de niveau : 7 mondes, de Moteur et outils à International">
+<style>
+.mono{font-family:Consolas,'Cascadia Code',Menlo,'DejaVu Sans Mono',monospace}
+.sans{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+</style><style>.cur{animation:c 1.2s steps(1) infinite}@keyframes c{0%,50%{opacity:1}51%,100%{opacity:0}}</style>
+<rect width="1280" height="180" rx="14" fill="#0B0B1E"/>
+<text x="20" y="30" class="mono" font-size="16" font-weight="700" fill="#FFD23F" letter-spacing="3">SÉLECTION DE NIVEAU</text>
+<text x="1262" y="30" text-anchor="end" class="mono" font-size="14" fill="#A9A6D6">15 semaines · 7 mondes</text>
+<text class="cur mono" x="93.0" y="40" text-anchor="middle" font-size="14" fill="#2EE6D6">▼</text>
+<g><rect x="8" y="46" width="170" height="120" rx="10" fill="#12122B" stroke="#2EE6D6" stroke-width="2"/>
+<rect x="8" y="46" width="170" height="34" rx="10" fill="#2EE6D6"/><rect x="8" y="66" width="170" height="14" fill="#2EE6D6"/>
+<text x="93.0" y="70" text-anchor="middle" class="mono" font-size="19" font-weight="700" fill="#0B0B1E">WORLD 1-1</text>
+<text x="93.0" y="118" text-anchor="middle" class="sans" font-size="17" font-weight="700" fill="#FFFFFF">Moteur et outils</text>
+<text x="93.0" y="146" text-anchor="middle" class="mono" font-size="14" fill="#A9A6D6">sem. 1</text></g><g><rect x="190" y="46" width="170" height="120" rx="10" fill="#12122B" stroke="#2EE6D6" stroke-width="2"/>
+<rect x="190" y="46" width="170" height="34" rx="10" fill="#2EE6D6"/><rect x="190" y="66" width="170" height="14" fill="#2EE6D6"/>
+<text x="275.0" y="70" text-anchor="middle" class="mono" font-size="19" font-weight="700" fill="#0B0B1E">WORLD 1-2</text>
+<text x="275.0" y="118" text-anchor="middle" class="sans" font-size="17" font-weight="700" fill="#FFFFFF">Mondes 2D et 3D</text>
+<text x="275.0" y="146" text-anchor="middle" class="mono" font-size="14" fill="#A9A6D6">sem. 2 à 5</text></g><g><rect x="372" y="46" width="170" height="120" rx="10" fill="#12122B" stroke="#7CFF6B" stroke-width="2"/>
+<rect x="372" y="46" width="170" height="34" rx="10" fill="#7CFF6B"/><rect x="372" y="66" width="170" height="14" fill="#7CFF6B"/>
+<text x="457.0" y="70" text-anchor="middle" class="mono" font-size="19" font-weight="700" fill="#0B0B1E">WORLD 1-3</text>
+<text x="457.0" y="118" text-anchor="middle" class="sans" font-size="17" font-weight="700" fill="#FFFFFF">Logique de jeu</text>
+<text x="457.0" y="146" text-anchor="middle" class="mono" font-size="14" fill="#A9A6D6">sem. 6 à 9</text></g><g><rect x="554" y="46" width="170" height="120" rx="10" fill="#12122B" stroke="#FFD23F" stroke-width="2"/>
+<rect x="554" y="46" width="170" height="34" rx="10" fill="#FFD23F"/><rect x="554" y="66" width="170" height="14" fill="#FFD23F"/>
+<text x="639.0" y="70" text-anchor="middle" class="mono" font-size="19" font-weight="700" fill="#0B0B1E">WORLD 1-4</text>
+<text x="639.0" y="118" text-anchor="middle" class="sans" font-size="17" font-weight="700" fill="#FFFFFF">Contrôles et réseau</text>
+<text x="639.0" y="146" text-anchor="middle" class="mono" font-size="14" fill="#A9A6D6">sem. 10 et 11</text></g><g><rect x="736" y="46" width="170" height="120" rx="10" fill="#12122B" stroke="#FFD23F" stroke-width="2"/>
+<rect x="736" y="46" width="170" height="34" rx="10" fill="#FFD23F"/><rect x="736" y="66" width="170" height="14" fill="#FFD23F"/>
+<text x="821.0" y="70" text-anchor="middle" class="mono" font-size="19" font-weight="700" fill="#0B0B1E">WORLD 1-5</text>
+<text x="821.0" y="118" text-anchor="middle" class="sans" font-size="17" font-weight="700" fill="#FFFFFF">Effets visuels</text>
+<text x="821.0" y="146" text-anchor="middle" class="mono" font-size="14" fill="#A9A6D6">sem. 12 et 13</text></g><g><rect x="918" y="46" width="170" height="120" rx="10" fill="#12122B" stroke="#FF4D6D" stroke-width="2"/>
+<rect x="918" y="46" width="170" height="34" rx="10" fill="#FF4D6D"/><rect x="918" y="66" width="170" height="14" fill="#FF4D6D"/>
+<text x="1003.0" y="70" text-anchor="middle" class="mono" font-size="19" font-weight="700" fill="#0B0B1E">WORLD 1-6</text>
+<text x="1003.0" y="118" text-anchor="middle" class="sans" font-size="17" font-weight="700" fill="#FFFFFF">Son</text>
+<text x="1003.0" y="146" text-anchor="middle" class="mono" font-size="14" fill="#A9A6D6">sem. 14</text></g><g><rect x="1100" y="46" width="170" height="120" rx="10" fill="#12122B" stroke="#FF4D6D" stroke-width="2"/>
+<rect x="1100" y="46" width="170" height="34" rx="10" fill="#FF4D6D"/><rect x="1100" y="66" width="170" height="14" fill="#FF4D6D"/>
+<text x="1185.0" y="70" text-anchor="middle" class="mono" font-size="19" font-weight="700" fill="#0B0B1E">WORLD 1-7</text>
+<text x="1185.0" y="118" text-anchor="middle" class="sans" font-size="17" font-weight="700" fill="#FFFFFF">International</text>
+<text x="1185.0" y="146" text-anchor="middle" class="mono" font-size="14" fill="#A9A6D6">sem. 15</text></g></svg>
